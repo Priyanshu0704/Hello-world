@@ -1,8 +1,8 @@
 # Hello-world
-learning how to use github
+*learning how to use github
 
 
 
-i am priyanshu 
-i am learning how to use github
-my teacher is https://guides.github.com/activities/hello-world/
+*i am priyanshu 
+*i am learning how to use github
+*my teacher is https://guides.github.com/activities/hello-world/
